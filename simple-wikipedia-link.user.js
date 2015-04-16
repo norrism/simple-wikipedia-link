@@ -6,7 +6,7 @@
 // @description Provides a link to the Simple English Wikipedia version of the current Wikipedia article being browsed
 // @match      http://en.wikipedia.org/wiki/*
 // @match      https://en.wikipedia.org/wiki/*
-// @downloadURL	https://github.com/norrism/simple-wikipedia-link/raw/master/simple-wikipedia-link.user.js
+// @downloadURL https://github.com/norrism/simple-wikipedia-link/raw/master/simple-wikipedia-link.user.js
 // @require    http://code.jquery.com/jquery-latest.js
 // ==/UserScript==
 
