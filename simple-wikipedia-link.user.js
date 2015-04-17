@@ -2,7 +2,7 @@
 // @name       Simple Wikipedia Link
 // @author     Michael Norris
 // @namespace  http://norrism.com
-// @version    1.0.2
+// @version    1.0.3
 // @description Provides a link to the Simple English Wikipedia version of the current Wikipedia article being browsed
 // @match      http://en.wikipedia.org/wiki/*
 // @match      https://en.wikipedia.org/wiki/*
